@@ -3,7 +3,7 @@
       {
         "id": "1",
         "name": "Cuenta1",
-        "Cliente": "Cleinte 1",
+        "cliente": "Cleinte 1",
         "saldo": 1300, 
         "tarjetas": {
             "tarjeta1": "tarjeta1",
@@ -14,7 +14,7 @@
       {
         "id": "",
         "name": "Cuenta2",
-        "Cliente": "Cleinte 2",
+        "cliente": "Cleinte 2",
         "saldo": 1500, 
         "tarjetas": {
             "tarjeta1": "tarjeta4",
