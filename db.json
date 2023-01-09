@@ -4,23 +4,15 @@
         "id": "1",
         "name": "Cuenta1",
         "cliente": "Cleinte 1",
-        "saldo": 1300, 
-        "tarjetas": {
-            "tarjeta1": "tarjeta1",
-            "tarjeta2": "tarjeta2",
-            "tarjeta3": "tarjeta3"
-        }
+        "saldo": 1300          
+        
       },
       {
         "id": "",
         "name": "Cuenta2",
         "cliente": "Cleinte 2",
-        "saldo": 1500, 
-        "tarjetas": {
-            "tarjeta1": "tarjeta4",
-            "tarjeta2": "tarjeta5",
-            "tarjeta3": "tarjeta6"
-        }
+        "saldo": 1500
+      
       }
     ]
   }
