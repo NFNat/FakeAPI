@@ -4,7 +4,7 @@
         "id": "1",
         "name": "Cuenta1",
         "cliente": "Cleinte 1",
-        "saldo": 1300          
+        "saldo": 7610          
         
       },
       {
@@ -52,5 +52,32 @@
       "number": 4,
       "arrow": "🠗"
      }
+    ],
+    "cards":[
+      {
+        "number1": "5648",
+        "number2": "3500",
+        "number3": "9208",
+        "number4": "6180",
+        "balance": 7610,
+        "type": "mastercard"
+      },
+      {
+        "number1": "7874",
+        "number2": "5699",
+        "number3": "5522",
+        "number4": "4489",
+        "balance": 2233,
+        "type": "mastercard"
+      },
+      {
+        "number1": "5899",
+        "number2": "5248",
+        "number3": "0805",
+        "number4": "4828",
+        "balance": 410,
+        "type": "mastercard"
+      }
     ]
+    
   }
