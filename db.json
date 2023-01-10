@@ -21,28 +21,36 @@
       "type": "Recieving money",
       "user": "Bruno Hoffman", 
       "amount": 200,
-      "date": "2020-05-24"
+      "date": "2020-05-24",
+      "number": 1,
+      "arrow": "🠕"
      },
      {
       "id": "0000000288",
       "type": "Recieving money",
       "user": "Vanessa Saldia", 
       "amount": 400,
-      "date": "2020-05-24"
+      "date": "2020-05-24",
+      "number": 2,
+      "arrow": "🠗"
      },
      {
       "id": "0000000287",
       "type": "Recieving money",
       "user": "Chad Kerley", 
       "amount": 180,
-      "date": "2020-05-24"
+      "date": "2020-05-24",
+      "number": 3,
+      "arrow": "🠗"
      },
      {
       "id": "0000000286",
       "type": "Recieving money",
       "user": "Manuel Rovira", 
       "amount": 260,
-      "date": "2020-05-20"
+      "date": "2020-05-20",
+      "number": 4,
+      "arrow": "🠗"
      }
     ]
   }
